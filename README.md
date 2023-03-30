@@ -2,6 +2,11 @@
 List of very useful browser, IDE, Terminal extensions for developer
 
 
+## GNOME extensiona
+
+ - [Filter apps in alt + tab based on workspace](https://extensions.gnome.org/extension/4204/private-switcher/)
+
+
 ## Chrome extensions
 
  - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
